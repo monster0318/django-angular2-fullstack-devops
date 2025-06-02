@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { ROUTER_DIRECTIVES, Routes } from '@angular/router';
 import { HTTP_PROVIDERS} from '@angular/http';
-
 import { AboutComponent } from './+about/index';
 import { HomeComponent } from './+home/index';
 import { NameListService, NavbarComponent, ToolbarComponent } from './shared/index';
